@@ -1,0 +1,235 @@
+{
+  "checked_at": "2026-10-05",
+  "skills": {
+    "dieu-phoi-du-an": [
+      {
+        "repo": "obra/superpowers",
+        "branch": "main",
+        "path": "skills/subagent-driven-development/SKILL.md",
+        "sha": "f7bbf6a01b519807ec00baf5e98522bed33f8834"
+      },
+      {
+        "repo": "obra/superpowers",
+        "branch": "main",
+        "path": "skills/dispatching-parallel-agents/SKILL.md",
+        "sha": "3fa091b348bbe0a18eaa0e17e9092c97f7005cbe"
+      },
+      {
+        "repo": "obra/superpowers",
+        "branch": "main",
+        "path": "skills/brainstorming/SKILL.md",
+        "sha": "e3f17885f8d5f87d7a92f0469141662b476e1288"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/implement-spec/SKILL.md",
+        "sha": "183923797ab58f1b3ef09e03bc1f1f203c309f37"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/productivity/handoff/SKILL.md",
+        "sha": "2eb98a51b97bb5bac461a26ad14828eeac827909"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/productivity/writing-for-agents/SKILL.md",
+        "sha": "a37608daf6e835e767deecfb498facecaaba82ba"
+      }
+    ],
+    "kham-pha-yeu-cau": [
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/productivity/grilling/SKILL.md",
+        "sha": "8ca78c6d8f901aab0c5a1f896034b70e666ff2a3"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/to-spec/SKILL.md",
+        "sha": "3f52599ae2a4347aee5a07432c2707518e691a7f"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/domain-modeling/SKILL.md",
+        "sha": "a4438c6879c517d1a08e2b5fbca049b632688dfe"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/productivity/to-questionnaire/SKILL.md",
+        "sha": "dadd0c00d6a350acaa15bb9ca1b96b20ead684ca"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/research/SKILL.md",
+        "sha": "fecee97e9457ba039678d2fcf1b1bc9fca78307d"
+      }
+    ],
+    "thiet-ke-ui-ung-dung": [
+      {
+        "repo": "anthropics/skills",
+        "branch": "main",
+        "path": "skills/frontend-design/SKILL.md",
+        "sha": "a5333457c414d20d625f307df945842c0952ecc3"
+      },
+      {
+        "repo": "vercel-labs/agent-skills",
+        "branch": "main",
+        "path": "skills/web-design-guidelines/SKILL.md",
+        "sha": "ceae92ab319216a68274168fba9b63b998b65997"
+      },
+      {
+        "repo": "pbakaus/impeccable",
+        "branch": "main",
+        "path": ".agents/skills/impeccable/SKILL.md",
+        "sha": "2bbc28d4fe0b47c8005737b4e7052d78591570c7"
+      },
+      {
+        "repo": "leonxlnx/taste-skill",
+        "branch": "main",
+        "path": "skills/taste-skill/SKILL.md",
+        "sha": "b72132fcd466da605623ffe96e370b3991fc5285"
+      },
+      {
+        "repo": "emilkowalski/skills",
+        "branch": "main",
+        "path": "skills/emil-design-eng/SKILL.md",
+        "sha": "62ce902af8dd32c590ea7203e9ab2edb1d6ef81a"
+      }
+    ],
+    "thiet-ke-kien-truc": [
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/codebase-design/SKILL.md",
+        "sha": "3f63c8146dd2604b419c929e9876b90c30d410e9"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/improve-codebase-architecture/SKILL.md",
+        "sha": "44cc7d3136c44534d68ac523fa6cd37e759d2846"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/to-tickets/SKILL.md",
+        "sha": "e868c831fcfb1e124e010bcdf84a429ec879160f"
+      },
+      {
+        "repo": "obra/superpowers",
+        "branch": "main",
+        "path": "skills/writing-plans/SKILL.md",
+        "sha": "4cf0275d88d67aa4ef09f4bbca9970ed6ff74a00"
+      },
+      {
+        "repo": "supabase/agent-skills",
+        "branch": "main",
+        "path": "skills/supabase-postgres-best-practices/SKILL.md",
+        "sha": "6400792389dfcc82c81953054e546bd72ebcd259"
+      }
+    ],
+    "lap-trinh-tdd": [
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/tdd/SKILL.md",
+        "sha": "250871ccdfefa7525309acfebda090edf4046882"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/implement/SKILL.md",
+        "sha": "7a0b11f5f4fe9505ea5c7983c3083ba1bf754f69"
+      },
+      {
+        "repo": "obra/superpowers",
+        "branch": "main",
+        "path": "skills/test-driven-development/SKILL.md",
+        "sha": "46838cc9e893c06259e3bdad0fc2425b36242f15"
+      },
+      {
+        "repo": "vercel-labs/agent-skills",
+        "branch": "main",
+        "path": "skills/react-best-practices/SKILL.md",
+        "sha": "237988de4a66dd8a71d30a2c24ebe1a86b58d04e"
+      },
+      {
+        "repo": "vercel-labs/agent-skills",
+        "branch": "main",
+        "path": "skills/composition-patterns/SKILL.md",
+        "sha": "d07025bf943345bc1cf15eb923594f889ff881f0"
+      }
+    ],
+    "kiem-thu-qa": [
+      {
+        "repo": "obra/superpowers",
+        "branch": "main",
+        "path": "skills/verification-before-completion/SKILL.md",
+        "sha": "7d45333cc4a49c57a80df6c1fe2fa777a207afbc"
+      },
+      {
+        "repo": "obra/superpowers",
+        "branch": "main",
+        "path": "skills/systematic-debugging/SKILL.md",
+        "sha": "095d194ac041502905f15b01d22d294fb94db8b2"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/code-review/SKILL.md",
+        "sha": "e28d7acbf7b3bb4d7817b7eb5d9c105af03f6ec4"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/diagnosing-bugs/SKILL.md",
+        "sha": "1b929e29fb519c26b500d3eda744177986883ac8"
+      },
+      {
+        "repo": "anthropics/skills",
+        "branch": "main",
+        "path": "skills/webapp-testing/SKILL.md",
+        "sha": "4726215301db64a0cc4d41fc3219c61f37a30f4a"
+      }
+    ],
+    "phat-hanh-ban-giao": [
+      {
+        "repo": "obra/superpowers",
+        "branch": "main",
+        "path": "skills/finishing-a-development-branch/SKILL.md",
+        "sha": "fa8aecaf8813f1b19d19996f7957d1b0121f2d9c"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/pr/SKILL.md",
+        "sha": "84dd4fb2f068e9f6282690235d20dd505b418119"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/misc/setup-pre-commit/SKILL.md",
+        "sha": "1b9708168263067adb4684d06ebb8f4ccfe9682c"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/misc/git-guardrails-claude-code/SKILL.md",
+        "sha": "58bcdd875b164093b95f436fa32a65c6cb5eb572"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "branch": "main",
+        "path": "skills/engineering/retro/SKILL.md",
+        "sha": "12149acf2dd23b4514dec57b04a6293eaa1352fa"
+      }
+    ]
+  }
+}
